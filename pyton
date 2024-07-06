@@ -5,3 +5,4 @@ faça um algoritimo que leia 20 valores inteiros, apresente a media aritimetica 
 em uma loja a comissão paga aos vendedores depende do tipo de produto. Roupas tem comissão de 1% e calças tem comissão de 2%. Crie uma função que receba o total vendido em roupas e o total vendido em calçados, calcule e retorne o total de comissão correspondente. O algoritimo principal deverá ler o nome do vendedor seu salario fixo o total vendido em roupas e o total vendido em calçados. Utilizando a função criada, apresente uma mensagem indicando o total a ser pago ao funcionario ao final do mes
 
 
+EDITADO POR RAFAEL ÀS 21h58
