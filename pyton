@@ -1,0 +1,7 @@
+Faça um algoritimo que recebça um login e senha do usuário e infoeme se o login foi bem sucedido, ou apresente uma mensagem de acesso negado considere que o login é o seu nome e a senha a sua matricula, ana paula ribeiro e a matricula é 2024000251
+
+faça um algoritimo que leia 20 valores inteiros, apresente a media aritimetica dos valores lidos, o maior valor lido e o menor valor lido
+
+em uma loja a comissão paga aos vendedores depende do tipo de produto. Roupas tem comissão de 1% e calças tem comissão de 2%. Crie uma função que receba o total vendido em roupas e o total vendido em calçados, calcule e retorne o total de comissão correspondente. O algoritimo principal deverá ler o nome do vendedor seu salario fixo o total vendido em roupas e o total vendido em calçados. Utilizando a função criada, apresente uma mensagem indicando o total a ser pago ao funcionario ao final do mes
+
+
